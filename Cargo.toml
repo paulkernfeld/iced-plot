@@ -1,0 +1,14 @@
+[package]
+name = "iced-plot"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+euclid = "0.20"
+iced = "0.1"
+iced_native = "0.2"
+iced_wgpu = "0.2"
+
+[dev-dependencies]
+sysinfo = "0.13"
+rand = "0.7"
